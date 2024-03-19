@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_brick",
+  "name": "obj_powers",
   "spriteId": {
-    "name": "spr_brick",
-    "path": "sprites/spr_brick/spr_brick.yy",
+    "name": "spr_powers",
+    "path": "sprites/spr_powers/spr_powers.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,7 +26,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
